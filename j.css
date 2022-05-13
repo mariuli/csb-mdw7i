@@ -1,0 +1,33 @@
+/* *,
+*::before,
+*::after {
+  box-sizing: border-box;
+} */
+
+body {
+  background-color: #1b2122 !important;
+}
+.container1 {
+  height: 100%;
+  margin: 7rem;
+  padding: 10vh 5rem;
+  /* padding: 45vh; */
+  border: none;
+  background-color: #0f4c5c;
+  /* transform: rotate(-5deg); */
+}
+/* .col-md-3 {
+  background-color: #e9c46a !important;
+} */
+input {
+  background-color: #0f4c5c !important;
+}
+#welcome-section {
+  padding-top: 0px;
+  margin-top: 0px;
+  display: block;
+  height: -100vh;
+}
+#nav-bar {
+  color: #0f4c5c !important;
+}
